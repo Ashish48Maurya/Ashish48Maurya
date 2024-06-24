@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish48maurya&" alt="ashish48maurya" /></p>
 
-![snake animation](https://github.com/Ashish48Maurya/Ashish48Maurya/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Ashish48Maurya/Ashish48Maurya/blob/output/snake.svg)
