@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maurya.48.ashish@gmail.com**
 
-- 📄 My Resume [Resume.pdf](https://shorturl.at/7cyLn)
+- 📄 My Resume [Resume.pdf](https://utfs.io/f/4cd6f51b-3bcb-4a7e-8d00-6a72cf22bc45-ulrws3.pdf)
 
 - 🌱 Always Learning **I'm a dedicated learner, always eager to acquire new programming skills and stay updated with the latest industry trends. My current focus is on deepening my understanding of blockchain technology and exploring its potential applications in various domains.**
 
