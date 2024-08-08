@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish48maurya&label=Profile%20views&color=0e75b6&style=flat" alt="ashish48maurya" /> </p>
 
-- 🌱 I’m currently learning **I'm currently focusing on Next.js and the integration of AI in MERN stack projects. This allows me to stay at the cutting edge of web development and explore new possibilities in creating intelligent, data-driven applications.**
+- 🌱 **I'm currently focusing on Next.js and the integration of AI in MERN stack projects. This allows me to stay at the cutting edge of web development and explore new possibilities in creating intelligent, data-driven applications.**
 
-- 🚀 My Journey **I have a strong foundation in C++ Data Structures and Algorithms, which has significantly sharpened my problem-solving abilities. My journey into full-stack development has allowed me to blend this algorithmic precision with creative design principles to build impactful and user-friendly applications.**
+- 🚀 My Journey: **I have a strong foundation in C++ Data Structures and Algorithms, which has significantly sharpened my problem-solving abilities. My journey into full-stack development has allowed me to blend this algorithmic precision with creative design principles to build impactful and user-friendly applications.**
 
 - 📫 How to reach me **maurya.48.ashish@gmail.com**
 
