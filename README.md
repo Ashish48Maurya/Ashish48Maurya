@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
-<h3 align="center">A passionate MERN Stack Developer and Blockchain and Machine Learning Enthusiast dedicated to continuous learning and skill acquisition.</h3>
+<h3 align="center">A passionate NEXT.Js Developer and Blockchain and Machine Learning Enthusiast dedicated to continuous learning and skill acquisition.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish48maurya&label=Profile%20views&color=0e75b6&style=flat" alt="ashish48maurya" /> </p>
 
